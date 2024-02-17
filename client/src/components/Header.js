@@ -12,7 +12,7 @@ const Header = () => {
           </div>
           <div className="right">
             <li><Link to="/logout"> Logout</Link></li>
-            <li><Link to="/profile"> profile</Link></li>
+            <li><Link to="/signup"> Signup</Link></li>
           </div>
         </ul>
       </div>
