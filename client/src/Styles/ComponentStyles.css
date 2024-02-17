@@ -1,0 +1,36 @@
+.navlink {
+  display: flex;
+  background: #000;
+  gap: 1rem;
+  padding: 1rem 0.5rem;
+  text-align: center;
+  justify-content: space-between;
+}
+
+.left,
+.right {
+  display: flex;
+  gap: 1.5rem;
+  color: #fff;
+  padding: 0 2rem;
+}
+
+.left a,
+.right a {
+  color: #fff;
+  font-size: 1.5rem;
+}
+
+/* footer design  */
+
+footer {
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+  font-size: 1.5rem;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
